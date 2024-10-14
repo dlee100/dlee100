@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dlee100
 - 👀 I’m in OS-level development (Linux)
-- 🌱 I’m currently learning SvelteJS and Rust
+- 🌱 I’m also learning the Go programming language and the Astro web framework
 
 <!---
 dlee100/dlee100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
